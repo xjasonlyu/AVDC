@@ -1,5 +1,7 @@
 # AVDC-API Backend Server
 
+This code is no longer maintained, for anyone looking for an alternative implementation, please see [this project](https://github.com/javtube).
+
 [CLI Version](https://github.com/yoshiko2/AV_Data_Capture)
 
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)
